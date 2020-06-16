@@ -1,3 +1,2 @@
-def parrot(phrase="Squawk")
-"#{voice}!"
-end
+def parrot(phrase="Squawk!")
+  purs 
