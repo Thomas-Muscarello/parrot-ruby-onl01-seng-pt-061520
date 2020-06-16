@@ -1,4 +1,4 @@
-def parrot(parrot="Squawk!")
-   "#{parrot}"
+def parrot
+   "Squawk!"
  
 end
